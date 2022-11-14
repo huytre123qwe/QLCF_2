@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/commons-beanutils-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/groovy-all-2.4.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/MySQL.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/jdt-compiler-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/servlet-api-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/SQL.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/jasperreports-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/joda-time-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/Library/Database.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <obj>w32api/crt2.o</obj>
+  <obj>head/guihead.o</obj>
+  <obj>head/head.o</obj>
+  <jar>C:\Users\Admin\Desktop\App\QLCF_2.jar</jar>
+  <outfile>C:\Users\Admin\Desktop\App\QLCF_2.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>qlcf.LoginFr</mainClass>
+    <cp>lib/jcalendar-1.4.jar</cp>
+    <cp>lib/sqljdbc_11.2/</cp>
+    <cp>lib/mssql-jdbc-11.2.0.jre18.jar</cp>
+    <cp>lib/jasperreports.jar</cp>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\Java\jdk-18.0.1.1</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <bundledJreErr>This application requires a Java Runtime Environment.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
